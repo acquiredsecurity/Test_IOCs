@@ -1,1 +1,25 @@
-
+{
+  "ioc": [
+    {
+      "type": "domain",
+      "value": "malicious-domain.com",
+      "description": "Suspicious domain related to phishing activity",
+      "first_seen": "2025-01-25T10:00:00Z",
+      "last_seen": "2025-01-29T10:00:00Z"
+    },
+    {
+      "type": "ip",
+      "value": "192.168.1.1",
+      "description": "IP address associated with known malware command-and-control server",
+      "first_seen": "2025-01-20T10:00:00Z",
+      "last_seen": "2025-01-29T10:00:00Z"
+    },
+    {
+      "type": "file_hash",
+      "value": "8a24e1a4d68e75d31a97fb8e743dfb1d",
+      "description": "File hash for malware sample",
+      "first_seen": "2025-01-22T10:00:00Z",
+      "last_seen": "2025-01-29T10:00:00Z"
+    }
+  ]
+}
