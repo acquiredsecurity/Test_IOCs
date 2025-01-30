@@ -7,6 +7,7 @@
       "source": "abuse.ch",      
       "type": "SHA1",
       "value": "eb1cc363bbe0e61efcbb9fdb31d58b3cb714189e",
+      "title: "Test Malware Sample",
       "description": "AgentTesla File Hash",
       "method": "EQUALS",
       "creationTime": "2025-01-22T10:00:00Z",
