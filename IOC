@@ -4,26 +4,21 @@
   },
   "data": [
     {
-      "type": "file_hash",
-      "value": "8a24e1a4d68e75d31a97fb8e743dfb1d",
-      "description": "File hash for malware sample",
+      "source": "abuse.ch",      
+      "type": "SHA1",
+      "value": "eb1cc363bbe0e61efcbb9fdb31d58b3cb714189e",
+      "description": "AgentTesla File Hash",
       "method": "EQUALS",
       "creationTime": "2025-01-22T10:00:00Z",
       "validUntil": "2025-02-22T10:00:00Z",
       "severity": 5,
-      "source": "Malware Research Team",
       "category": ["malware"],
-      "creator": "Security Team",
-      "name": "Malware Sample SHA-256 Hash",
-      "labels": ["high-risk"],
-      "threatActors": ["APT28"],
-      "mitreTactic": ["Execution"],
-      "pattern": "string",
-      "metadata": "string",
+      "creator": "ThreatIntelTeam",
+      "malwareNames": "AgentTesla",
       "reference": [
         {
-          "type": "string",
-          "description": "External reference associated with the Threat Intelligence indicator"
+          "type": "abuse.ch",
+          "description": "https://bazaar.abuse.ch/sample/9bd66b6fa9050edf01d12180e4569c464f47e3235d5a912c9d2e91b6461e8f23/"
         }
       ]
     }
