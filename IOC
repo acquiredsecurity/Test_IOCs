@@ -1,26 +1,19 @@
-{
-  "filter": {
-    "siteIds": ["1884159573634035552"]
-  },
-  "data": [
-    {
-      "source": "abuse.ch",      
-      "type": "SHA1",
-      "value": "eb1cc363bbe0e61efcbb9fdb31d58b3cb714189e",
-      "description": "AgentTesla File Hash",
-      "method": "EQUALS",
-      "creationTime": "2025-01-22T10:00:00Z",
-      "validUntil": "2025-02-22T10:00:00Z",
-      "severity": 5,
-      "category": ["malware"],
-      "creator": "ThreatIntelTeam",
-      "malwareNames": "AgentTesla",
-      "reference": [
-        {
-          "type": "abuse.ch",
-          "description": "https://bazaar.abuse.ch/sample/9bd66b6fa9050edf01d12180e4569c464f47e3235d5a912c9d2e91b6461e8f23/"
-        }
-      ]
-    }
-  ]
-}
+43.163.116.82
+154.44.28.49
+101.35.228.105
+103.243.25.70
+39.107.85.83
+47.109.90.134
+121.41.89.22
+44.193.202.139
+47.98.134.252
+124.71.137.28
+47.251.70.97
+47.120.60.201
+14.128.37.56
+207.231.109.20
+165.154.244.73
+34.55.187.149
+124.223.33.83
+101.34.82.117
+121.36.93.103
